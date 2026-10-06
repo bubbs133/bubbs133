@@ -2,13 +2,13 @@
   <p style="text-align:center;"><strong><h1>Hello! I'm Valeria :D</h1></strong></p>
   <samp><h2>About Me:</h2></samp>
   <p>🌱 I'm currently learning:</p>
-    <ul> ▹ more generative deep learning </ul>
-    <ul> ▹ more DevOps </ul>
+    <ul> ▹ Robotics </ul>
+    <ul> ▹ Ros2 </ul>
     <ul> ▹ So much more ^-^ </ul>
   <p>🤔 Ask me about:</p>
-    <ul> ▹ ML algorithms</ul>
+    <ul> ▹ Classical ML algorithms</ul>
     <ul> ▹ Deep learning</ul>
-    <ul> ▹ Mathematics</ul>
+    <ul> ▹ Robotics </ul>
   <p>⚡ Fun fact, I can speak:</p>
   <ul> ▹ Spanish</ul>
   <ul> ▹ English</ul>
